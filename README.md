@@ -3,12 +3,8 @@ Vinícius Fernandes da Silva
 #
 17 anos
 #
-Solteiro
+ITUMBIARA-GO
 #
-Virgem (signo) 
-#
-Ancap
-#
-Procuro emprego de programação que pague 10k + namorada 6/10 pra cima 
+Cursando Programação na Escola Sesi/Senai Itumbiara
 #
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/viniciusfernandesds?igsh=MXZjZHpzbjVmMGwxdg==/)
